@@ -51,7 +51,7 @@
     "@types/jsdom": "^2.0.32",
     "@types/node": "^8.0.24",
     "@types/nomnom": "0.0.27",
-    "diff": "^2.2.1",
+    "diff": "^3.5.0",
     "eslint": "^4.19.1",
     "mocha": "^5.2.0",
     "typescript": "^2.9.0-dev.20180506"
